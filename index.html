@@ -83,7 +83,7 @@
 					document.getElementById('button-download-icon').style.display = 'none';
 					document.getElementById('button-download-spinner').style.display = 'inline-block';
 				})
-				.then(()=> fetch('http://inq.pub/api/docs/fromUrl', { // Make request to Inq to generate a document from this URL
+				.then(()=> fetch('https://inq.pub/api/docs/fromUrl', { // Make request to Inq to generate a document from this URL
 					method: 'POST',
 					headers: {
 						'Content-Type': 'application/json',

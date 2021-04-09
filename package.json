@@ -1,0 +1,22 @@
+{
+  "name": "@inq/example-button",
+  "version": "0.0.0",
+  "description": "Inq.pub Example: Simple \"Download as PDF\" button",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inq-pub/example-button.git"
+  },
+  "keywords": [
+    "inq",
+    "save",
+    "pdf",
+    "download"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Inq-pub/example-button/issues"
+  },
+  "homepage": "https://github.com/Inq-pub/example-button#readme"
+}
